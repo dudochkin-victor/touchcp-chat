@@ -6,11 +6,13 @@ CONFIG += qt \
     duicontrolpanel \
     plugin \
     link_pkgconfig \
+    mobility \
     debug
 
 PKGCONFIG += meegotouch libmeegochat TelepathyQt4
 
-QT += dbus
+QT += dbus mobility
+MOBILITY += contacts
 target.path = $$DCP_APPLET_DIR
 
 
