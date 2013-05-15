@@ -18,13 +18,13 @@
 
 #include <libmeegochat/meegochataccount.h>
 
-#include <TelepathyQt4/Types>
-#include <TelepathyQt4/Constants>
-#include <TelepathyQt4/Account>
-#include <TelepathyQt4/AccountManager>
-#include <TelepathyQt4/PendingAccount>
-#include <TelepathyQt4/PendingOperation>
-#include <TelepathyQt4/PendingStringList>
+#include <TelepathyQt/Types>
+#include <TelepathyQt/Constants>
+#include <TelepathyQt/Account>
+#include <TelepathyQt/AccountManager>
+#include <TelepathyQt/PendingAccount>
+#include <TelepathyQt/PendingOperation>
+#include <TelepathyQt/PendingStringList>
 
 M_REGISTER_WIDGET(TpAcctEditPage);
 

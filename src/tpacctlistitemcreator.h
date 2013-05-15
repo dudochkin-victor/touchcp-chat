@@ -14,9 +14,9 @@
 #include <MAbstractCellCreator>
 #include <MWidget>
 
-#include <TelepathyQt4/Types>
-#include <TelepathyQt4/Account>
-#include <TelepathyQt4/AccountManager>
+#include <TelepathyQt/Types>
+#include <TelepathyQt/Account>
+#include <TelepathyQt/AccountManager>
 
 
 #include "tpacctlistitem.h"

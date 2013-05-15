@@ -24,10 +24,10 @@
 #include <MTextEdit>
 
 //TODO - move ConnectionManager elements to libmeegotouch
-#include <TelepathyQt4/ConnectionManager>
-/*#include <TelepathyQt4/PendingAccount>
-#include <TelepathyQt4/PendingStringList>
-#include <TelepathyQt4/AccountManager>
+#include <TelepathyQt/ConnectionManager>
+/*#include <TelepathyQt/PendingAccount>
+#include <TelepathyQt/PendingStringList>
+#include <TelepathyQt/AccountManager>
 */
 
 namespace MeeGoChat {

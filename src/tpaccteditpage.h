@@ -26,23 +26,23 @@
 #include <MButton>
 
 /*
-#include <TelepathyQt4/Types>
-#include <TelepathyQt4/Constants>
-#include <TelepathyQt4/Debug>
-#include <TelepathyQt4/AccountManager>
-#include <TelepathyQt4/Account>
-#include <TelepathyQt4/Connection>
-#include <TelepathyQt4/PendingAccount>
-#include <TelepathyQt4/PendingChannelRequest>
-#include <TelepathyQt4/PendingConnection>
-#include <TelepathyQt4/PendingContactAttributes>
-#include <TelepathyQt4/PendingContacts>*/
+#include <TelepathyQt/Types>
+#include <TelepathyQt/Constants>
+#include <TelepathyQt/Debug>
+#include <TelepathyQt/AccountManager>
+#include <TelepathyQt/Account>
+#include <TelepathyQt/Connection>
+#include <TelepathyQt/PendingAccount>
+#include <TelepathyQt/PendingChannelRequest>
+#include <TelepathyQt/PendingConnection>
+#include <TelepathyQt/PendingContactAttributes>
+#include <TelepathyQt/PendingContacts>*/
 
 //TODO - move all Tp-Qt4 functionality into libmeegochat...
-#include <TelepathyQt4/PendingReady>
-#include <TelepathyQt4/ConnectionManager>
-#include <TelepathyQt4/PendingOperation>
-//#include <TelepathyQt4/PendingStringList>
+#include <TelepathyQt/PendingReady>
+#include <TelepathyQt/ConnectionManager>
+#include <TelepathyQt/PendingOperation>
+//#include <TelepathyQt/PendingStringList>
 
 
 namespace MeeGoChat {
