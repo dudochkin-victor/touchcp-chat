@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=DUIApplet
+Name=MeeGoChatApplet
+Icon=
+Exec=
+X-translation-catalog=libmeegochatapplet.so
+
+[DUI]
+X-DUIApplet-Applet=libmeegochatapplet.so
+#X-DUIApplet-ImageLandscape=Widget_landscape_weather.png
+#X-DUIApplet-ImagePortrait=Widget_portrait_weather.png
+
+[DCP]
+#Category=Accounts & Applications
+#Order=3
+Category=Applications
+Order=5

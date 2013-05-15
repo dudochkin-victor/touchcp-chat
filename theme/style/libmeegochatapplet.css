@@ -1,0 +1,80 @@
+/*
+ * meegotouchcp-chat - Telepathy Account management plugin for duicontrolpanel
+ * Copyright © 2010, Intel Corporation.
+ *
+ * This program is licensed under the terms and conditions of the
+ * Apache License, version 2.0.  The full text of the Apache License is at
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ */
+
+
+/* TpAcctEditPage */
+
+#lblAcctEditHeader {
+    font: "Droid Sans" bold 2.4mm;
+    margin-bottom: 20;
+}
+
+#lblAcctEditKind {
+    font: "Droid Sans" 2.0mm;
+}
+
+#cboAcctEditKind {
+    margin-bottom: 20;
+    margin-left: 0;
+}
+
+#DuiComboBoxTitle {
+    font: "Droid Sans" 2.0mm;
+}
+
+#DuiComboBoxSubtitle {
+    font: "Droid Sans" 2.4mm;
+    font-color: #FFFFFF;
+}
+
+#lblAcctEditUserName {
+    font: "Droid Sans" 2.0mm;
+}
+
+#edtAcctEditUserName {
+    font: "Droid Sans" 2.4mm;
+}
+
+#lblAcctEditUserNameHint {
+    font: "Droid Sans" bold 2.0mm;
+    margin-bottom: 20;
+}
+
+#lblAcctEditUserNameHintDyn {
+    font: "Droid Sans" 2.0mm;
+    margin-bottom: 20;
+}
+
+#lblAcctEditPassword {
+    font: "Droid Sans" 2.0mm;
+}
+
+#edtAcctEditPassword {
+    font: "Droid Sans" 2.4mm;
+    margin-bottom: 40;
+}
+
+#edtAcctEditPassword.Portrait {
+    margin-bottom: 80;
+}
+
+#btnAcctEditAddMore {
+    font: "Droid Sans" 2.4mm;
+    margin-bottom: 10;
+}
+
+#btnAcctEditDone {
+    font: "Droid Sans" 2.4mm;
+}
+
+#tpAcctListItem {
+    margin-bottom: 1;
+    background-color: #FFFFFF;
+}
